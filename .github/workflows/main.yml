@@ -11,4 +11,4 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - run: chmod +x alone
-    - run: sudo ./alone 91.108.17.50 32000 60
+    - run: sudo ./alone 91.108.17.49 32003 80
